@@ -25,6 +25,7 @@ setup(
     version='0.1.0',
     description="Anonymizer is a Python package that generates fake data for you, especially useful with pandas dataframes.",
     long_description=README,
+    long_description_content_type='text/markdown',
     classifiers=[
         # See https://pypi.org/pypi?%3Aaction=list_classifiers
         'Development Status :: 5 - Production/Stable',
